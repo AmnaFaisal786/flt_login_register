@@ -36,9 +36,9 @@ class LoginScreen extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       Image.asset(
-                        'assets/images/1.jpg', // Adjust the path to your image
+                        'assets/images/1.jpg',
                         height: 100,
-                        width: 100, // Set the desired height
+                        width: 100,
                       ),
                       SizedBox(height: 16),
                       ClipRRect(
